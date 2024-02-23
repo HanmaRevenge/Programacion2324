@@ -1,2 +1,2 @@
-# programacion2324
+# programation2324
 Exercises for class of 1ªDAM.
