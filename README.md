@@ -1,2 +1,2 @@
 # programacion2324
-Tareas/Documentos de 1ª DAM.
+Exercises for class of 1ªDAM.
